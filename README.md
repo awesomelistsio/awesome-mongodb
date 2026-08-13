@@ -39,6 +39,7 @@
 - [Robo 3T (Robomongo)](https://robomongo.org/) - A lightweight, open-source MongoDB GUI.
 - [Studio 3T](https://studio3t.com/) - A powerful GUI and IDE for MongoDB with a built-in query editor.
 - [DBeaver](https://dbeaver.io/) - A free, universal database tool that supports MongoDB.
+- [Mongrel](https://www.visorcraft.com/mongrel) - Cross-platform desktop workbench with MongoDB browsing, shell, and admin tools.
 - [NoSQLBooster for MongoDB](https://nosqlbooster.com/) - A MongoDB GUI client with intelligent query capabilities.
 
 ## Backup and Migration
